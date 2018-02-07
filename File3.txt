@@ -1,0 +1,6 @@
+New Branch created in Local
+<<<<<<< c64d907990927d87571ec0579d9a7dae77fe3544
+Modifying Directly From Server
+=======
+get conflict
+>>>>>>> Added Conflict
